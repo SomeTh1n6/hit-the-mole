@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="start">Start</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="next">NEXT</string>
+    <string name="hit_the_mole">Hit the Mole</string>
+    <string name="score">0</string>
+    <string name="play_again">Play again</string>
+</resources>
